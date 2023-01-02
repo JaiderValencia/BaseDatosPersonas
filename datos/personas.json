@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nombre": "Nolan",
+        "apellido": "Shortall",
+        "celular": "858-499-0555",
+        "direccion": "19 Center Pass",
+        "genero": "M"
+    },
+    {
+        "id": 2,
+        "nombre": "Cullie",
+        "apellido": "Hoovart",
+        "celular": "677-654-6104",
+        "direccion": "44667 Bunker Hill Lane",
+        "genero": "M"
+    },
+    {
+        "id": 3,
+        "nombre": "Daisy",
+        "apellido": "Woodham",
+        "celular": "797-165-7573",
+        "direccion": "7287 Mallard Trail",
+        "genero": "F"
+    },
+    {
+        "id": 4,
+        "nombre": "Selig",
+        "apellido": "Aaronsohn",
+        "celular": "838-618-0259",
+        "direccion": "556 Pleasure Trail",
+        "genero": "M"
+    },
+    {
+        "id": 5,
+        "nombre": "Orion",
+        "apellido": "Wheelan",
+        "celular": "571-920-5656",
+        "direccion": "6285 Stang Parkway",
+        "genero": "M"
+    },
+    {
+        "id": 6,
+        "nombre": "Mavis",
+        "apellido": "Balshen",
+        "celular": "335-759-6514",
+        "direccion": "3 Hudson Parkway",
+        "genero": "F"
+    },
+    {
+        "id": 7,
+        "nombre": "Imojean",
+        "apellido": "Batchelour",
+        "celular": "416-432-9553",
+        "direccion": "5311 Bunting Drive",
+        "genero": "F"
+    },
+    {
+        "id": 8,
+        "nombre": "Kelly",
+        "apellido": "Roskrug",
+        "celular": "328-432-2588",
+        "direccion": "379 Grayhawk Plaza",
+        "genero": "M"
+    },
+    {
+        "id": 9,
+        "nombre": "Shay",
+        "apellido": "Romans",
+        "celular": "604-318-0394",
+        "direccion": "8541 Melody Place",
+        "genero": "M"
+    },
+    {
+        "id": 10,
+        "nombre": "Betsey",
+        "apellido": "Crippill",
+        "celular": "132-960-2835",
+        "direccion": "5699 Corben Road",
+        "genero": "F"
+    }
+]
