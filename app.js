@@ -61,9 +61,7 @@ let personasFuncionalidades = {
         let personasEncontradas = []
 
         for (const persona of personas) {
-            if (persona.nombre[persona.nombre.length - 1] == letra) {
-                personasEncontradas.push(persona);
-            }
+            if (persona.nombre[persona.nombre.length - 1] == letra) { personasEncontradas.push(persona); }
         }
 
         return personasEncontradas;
