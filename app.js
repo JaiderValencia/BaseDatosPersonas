@@ -55,13 +55,13 @@ let personasFuncionalidades = {
         return personasEncontradas;
     },
 
-    nombresQueFinalicenPor: function () {
+    nombresQueFinalicenPor: function (letra) {
         const personas = this.personas;
 
         let personasEncontradas = []
 
         for (const persona of personas) {
-            if (persona.nombre[persona.length]) {
+            if (persona.nombre[persona.nombre.length - 1] == letra) {
                 personasEncontradas.push(persona);
             }
         }
@@ -84,3 +84,4 @@ let personasFuncionalidades = {
     }
 }
 
+console.log(personasFuncionalidades.nombresQueFinalicenPor("n"))
